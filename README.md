@@ -15,7 +15,7 @@ Rather than attempting to find local people on FetLife without your partner's kn
 
 ---
 
-### Spokeo - Find FetLife Account for Free
+## Spokeo - Find FetLife Account for Free
 
 ### How to Find a FetLife Account Using Spokeo
 Spokeo is a powerful people-search tool that helps you find information about someone using their name, email, phone number, or even location. It scans public records, social media profiles, and dating sites, including FetLife. While it’s not a magic wand, it’s a reliable way to dig deeper and uncover hidden online activity.
